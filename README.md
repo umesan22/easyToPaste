@@ -3,7 +3,7 @@
  
 # Features
 スクショ職人が楽をするためのツール。
-Windowsの場合「Shift + ctrl + s」でキャプチャをクリップボードに保管。
+Windowsの場合「Shift + Windows + s」でキャプチャをクリップボードに保管。
 それを自動的にExcelにペーストします。
  
 # Requirement
